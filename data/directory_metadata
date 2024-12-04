@@ -1,0 +1,1 @@
+There are 2 folders along with 3 files in this folder. The code folder contains code and an R program, while the data folder contains a diabetes dataset as well as gitkeep. The 3 files are the readme file, the gitignore, and gitattributes. The purpose of the directory is to be a tutorial for how to use a repository in GitHub.
